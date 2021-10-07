@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 -->
 
-<a href="https://app.daily.dev/ranjanr46"><img src="https://api.daily.dev/devcards/c530b6eb5fae41e983b6f95b692ea73f.png?r=6cj" width="400" alt="Ranjan Raghavendra's Dev Card"/></a>
+<a href="https://app.daily.dev/ranjanr46"><img src="https://api.daily.dev/devcards/c530b6eb5fae41e983b6f95b692ea73f.png?r=6cj" width="300" alt="Ranjan Raghavendra's Dev Card"/></a>
